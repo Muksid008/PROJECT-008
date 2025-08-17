@@ -40,7 +40,7 @@ Building an application that can detect the presence of a mental stress or the p
 ### Note:
 **Incase the application demo doesn't start real quick, you can get an idea about how it looks like from the screenshots**
 
-<img width="724" height="493" alt="Screenshot 2025-05-21 162933" src="https://github.com/user-attachments/assets/e66524f4-766c-4708-87d8-e98d417eead9" />
+<img width="1287" height="711" alt="Home" src="https://github.com/user-attachments/assets/9e7ee94a-0320-4111-bbdd-9853a1d04f14" />
 <img width="1287" height="638" alt="Screenshot 2025-05-21 162358" src="https://github.com/user-attachments/assets/47fe84cb-51d2-4529-9103-0ca3eee74185" />
 <img width="1287" height="711" alt="Screenshot 2025-05-21 162411" src="https://github.com/user-attachments/assets/78ebd587-51f6-4d11-b02d-9b77a8e9e55f" />
 <img width="1300" height="570" alt="Screenshot 2025-05-21 162322" src="https://github.com/user-attachments/assets/d8563416-cf56-4e73-b745-da659ba5a12b" />
@@ -112,6 +112,7 @@ What things you need to install the software and how to install them.
     python -m streamlit run app.py 
     ```
   
+
 
 
 
