@@ -1,6 +1,7 @@
-### A Predictive Analytical Tool For Stress.
+### 
 
-<img width="500" height="500" alt="home" src="https://github.com/user-attachments/assets/b472f4b7-5633-4d27-89b8-0b7146c5f4a4" />
+<img width="1920" height="1080" alt="A Predictive Analytical Tool For Stress Paterrns" src="https://github.com/user-attachments/assets/ca659f76-14bc-491e-813e-2ffccdb9777b" />
+
 
 
 
@@ -111,6 +112,7 @@ What things you need to install the software and how to install them.
     python -m streamlit run app.py 
     ```
   
+
 
 
 
