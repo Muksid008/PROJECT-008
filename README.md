@@ -1,6 +1,6 @@
 ### A Predictive Analytical Tool For Stress.
 
-![home] <img width="500" height="500" alt="home" src="https://github.com/user-attachments/assets/b472f4b7-5633-4d27-89b8-0b7146c5f4a4" />
+<img width="500" height="500" alt="home" src="https://github.com/user-attachments/assets/b472f4b7-5633-4d27-89b8-0b7146c5f4a4" />
 
 
 
@@ -39,12 +39,12 @@ Building an application that can detect the presence of a mental stress or the p
 ### Note:
 **Incase the application demo doesn't start real quick, you can get an idea about how it looks like from the screenshots**
 
-![image](https://user-images.githubusercontent.com/64016811/199024653-a24bb46e-5bde-4f6c-876d-a7c4b02c0218.png)
-![image](https://user-images.githubusercontent.com/64016811/199024804-5b4bd63a-528d-4c3c-94ce-2463ab83d5ce.png)
-![image](https://user-images.githubusercontent.com/64016811/199026180-fafca016-8955-4301-bc63-3ec978b2c27e.png)
-![image](https://user-images.githubusercontent.com/64016811/199025795-61a199f2-67e2-40e9-a076-97e72ca01cd0.png)
-![image](https://user-images.githubusercontent.com/64016811/199024885-c3c519d2-b67d-40a7-9804-ea9c7ad938af.png)
-![image](https://user-images.githubusercontent.com/64016811/199025007-87d895ee-f812-4987-9acd-e46a88d2055e.png)
+<img width="724" height="493" alt="Screenshot 2025-05-21 162933" src="https://github.com/user-attachments/assets/e66524f4-766c-4708-87d8-e98d417eead9" />
+<img width="1287" height="638" alt="Screenshot 2025-05-21 162358" src="https://github.com/user-attachments/assets/47fe84cb-51d2-4529-9103-0ca3eee74185" />
+<img width="1287" height="711" alt="Screenshot 2025-05-21 162411" src="https://github.com/user-attachments/assets/78ebd587-51f6-4d11-b02d-9b77a8e9e55f" />
+<img width="1300" height="570" alt="Screenshot 2025-05-21 162322" src="https://github.com/user-attachments/assets/d8563416-cf56-4e73-b745-da659ba5a12b" />
+
+
 
 # How to run on the project on your local 
 
@@ -111,6 +111,7 @@ What things you need to install the software and how to install them.
     python -m streamlit run app.py 
     ```
   
+
 
 
 
