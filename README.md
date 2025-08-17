@@ -1,6 +1,7 @@
 ### 
 
-<img width="734" height="243" alt="Untitled design" src="https://github.com/user-attachments/assets/fa68d1f9-c61a-41d8-be60-bda6714cd069" />
+<img width="1920" height="678" alt="A Predictive Analytical Tool For Stress Paterrns" src="https://github.com/user-attachments/assets/b870019d-3fc5-4c91-bb61-ef27e579a496" />
+
 
 
 
@@ -113,6 +114,7 @@ What things you need to install the software and how to install them.
     python -m streamlit run app.py 
     ```
   
+
 
 
 
